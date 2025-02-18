@@ -1,8 +1,23 @@
-# React + Vite
+🔐 LockHive - Password Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo: https://siyon000.github.io/LockHive
 
-Currently, two official plugins are available:
+LockHive is a sleek and efficient Password Management System built with React (Vite), Redux Toolkit, and Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+✅ Password Strength Checker – Get real-time feedback on password security.
+✅ Strong Password Generator – Generate customizable, secure passwords.
+✅ Password Manager (Mock) – Store, view, and copy passwords locally.
+🛠️ Tech Stack
+
+🔹 React (Vite) | Redux Toolkit | Tailwind CSS
+
+📸 Preview
+![image](https://github.com/user-attachments/assets/8ef288ba-87bf-4124-b396-76a127f78a5c)
+
+
+📦 Installation
+git clone https://github.com/siyon000/LockHive.git  
+cd LockHive  
+npm install  
+npm run dev  
