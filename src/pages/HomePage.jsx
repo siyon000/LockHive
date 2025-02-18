@@ -40,7 +40,7 @@ const HomePage = () => {
                     <Link
                         key={path}
                         to={path}
-                        className="block p-6 bg-gray-800 rounded-lg hover:bg-gray-750 transition-transform hover:scale-105" // transition-transform hover:-translate-y-1
+                        className="block p-6 bg-gray-800 rounded-lg hover:bg-gray-750 transition-transform hover:scale-105"
                     >
                         <div className={`${color} inline-block p-3 rounded-lg mb-4`}>
                             <Icon size={24} />
