@@ -5,6 +5,7 @@
 LockHive is a sleek and efficient Password Management System built with React (Vite), Redux Toolkit, and Tailwind CSS.
 
 ✨ Features
+
 ✅ Password Strength Checker – Get real-time feedback on password security.
 ✅ Strong Password Generator – Generate customizable, secure passwords.
 ✅ Password Manager (Mock) – Store, view, and copy passwords locally.
