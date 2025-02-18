@@ -15,10 +15,3 @@ LockHive is a sleek and efficient Password Management System built with React (V
 📸 Preview
 ![image](https://github.com/user-attachments/assets/8ef288ba-87bf-4124-b396-76a127f78a5c)
 
-
-📦 Installation
-
-git clone https://github.com/siyon000/LockHive.git  
-cd LockHive  
-npm install  
-npm run dev  
